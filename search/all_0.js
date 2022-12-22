@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['main_0',['main',['../main_8cpp.html#a8216c1645620cdb2f629cde3ac02ffef',1,'main.cpp']]],
-  ['main_2ecpp_1',['main.cpp',['../main_8cpp.html',1,'']]]
+  ['_5flastmoveright_0',['_lastMoveRight',['../classPlatformerGame_1_1MarioState.html#a72c0dbd40597115854431a8ef655c0a2',1,'PlatformerGame::MarioState']]],
+  ['_5flastvelocity_1',['_lastVelocity',['../classPlatformerGame_1_1MarioState.html#a0ae6d79415aca4e8b21dd638ddd17e41',1,'PlatformerGame::MarioState']]]
 ];

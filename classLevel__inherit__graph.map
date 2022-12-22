@@ -1,0 +1,5 @@
+<map id="Level" name="Level">
+<area shape="rect" id="node1" title=" " alt="" coords="147,5,389,391"/>
+<area shape="rect" id="node2" href="$classLevel1.html" title=" " alt="" coords="5,439,256,604"/>
+<area shape="rect" id="node3" href="$classLevel2.html" title=" " alt="" coords="280,439,531,604"/>
+</map>
